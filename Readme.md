@@ -8,7 +8,6 @@ A static replica of the Microsoft homepage created using HTML and CSS.
 
 ## 📌 Features
 
-- Fully responsive design
 - Clean and structured HTML & CSS code
 - Modern UI similar to the official Microsoft homepage
 
