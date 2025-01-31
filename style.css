@@ -47,13 +47,11 @@
 	background-image:url("./assets/10001.webp");
 	background-image:cover;
 	background-repeat:no-repeat;
-	/* background-color:orange; */
 	min-height:69.5vh;
 }
 .home_content{
 	width:45vw;
 	padding:10rem 0 0 6rem;
-	/* border: 1px solid; */
 }
 .home_content_heading{
 	padding:1rem;
@@ -177,7 +175,7 @@
 
 .follow_heading{
 	font-size:20px;
-	font-we:400;
+	font-weight:400;
 }
 .footer_container{
 	margin: 6rem 2rem;
@@ -199,7 +197,6 @@
 .items a:hover{
 		text-decoration:underline;
 		text-decoration-thickness:2px;
-		text-decoration-background:balck;
 		color:black;
 }
 
